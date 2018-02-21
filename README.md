@@ -3,6 +3,7 @@ Artemis es un chatbot creado con la herramienta Conversation de Watson, platafor
 <p align="center"> 
 <img src="https://github.com/jorgerodriguezm/artemis-chatbot/blob/master/Artemis%20Chatbot/README_images/Artemis%20Saludo.png">
 </p>
+
 ## Interacciones
 <p align="center"> 
 <img src="https://github.com/jorgerodriguezm/artemis-chatbot/blob/master/Artemis%20Chatbot/README_images/Artemis%20Cuadro.png">
